@@ -1,5 +1,9 @@
+Name : B Harshala Reddy
+
+Register No. : 212224040050
+
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE: 14-05-2025
+## DATE: 14-03-2026
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -37,7 +41,6 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![5 1](https://github.com/user-attachments/assets/393b13f2-12f6-4fb2-b796-f07d003a73b1)
 
 
 ## RESULT:
